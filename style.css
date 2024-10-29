@@ -21,16 +21,6 @@ nav a{
   padding: 0 1.5rem;
 }
 
-.hero{
-  background: white;
-}
-.hero-container{
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  height: 95vh;
-  padding: 3rem calc((100vw-1300px) / 2);
-}
-
 .column-left{
   display: flex;
   flex-direction: column;
